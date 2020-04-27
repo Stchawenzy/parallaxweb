@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+    background-image: url("image1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Lato", sans-serif;
+}
+
+.header-one {
+    display: flex;
+    justify-content: center;
+    padding: 300px 0;
+}
+
+.header-one h1 {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.section-one {
+    display: flex;
+    flex-direction: column;
+    background-color: #777272;
+    padding: 80px 40px;
+}
+
+.section-one h3 {
+    text-align: center;
+    font-size: 29px;
+    padding-bottom: 15px;
+}
+
+.section-one p {
+    text-align: center;
+    padding: 0 20px;
+    line-height: 1.4;
+}
+
+.header-two {
+    display: flex;
+    justify-content: center;
+    background-image: url("image4.jpg");
+    background-attachment: fixed;
+    position: relative;
+    padding: 150px 0;
+    position: relative;
+}
+
+.header-two h1 {
+    font-size: 30px;
+    letter-spacing: 6px;
+}
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+    background-color: #e2d8d8;
+    color: black;
+    padding: 80px 40px;
+}
+
+.section-two h3 {
+    text-align: center;
+    font-size: 29px;
+    padding-bottom: 15px;
+}
+
+.section-two p {
+    text-align: center;
+    padding: 0 20px;
+    line-height: 1.4;
+}
+
+.header-three {
+    display: flex;
+    justify-content: center;
+    background-image: url("image2.jpg");
+    background-attachment: fixed;
+    position: relative;
+    padding: 150px 0;
+    position: relative;
+}
+
+.header-three h1 {
+    font-size: 30px;
+    letter-spacing: 6px;
+}
+
+.section-three {
+    display: flex;
+    flex-direction: column;
+    background-color: #e2d8d8;
+    color: black;
+    padding: 80px 40px;
+}
+
+.section-three h3 {
+    text-align: center;
+    font-size: 29px;
+    padding-bottom: 15px;
+}
+
+.section-three p {
+    text-align: center;
+    padding: 0 20px;
+    line-height: 1.4;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 300px 0;
+}
+
+.footer h1 {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
